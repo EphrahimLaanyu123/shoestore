@@ -1,12 +1,12 @@
 import React from 'react';
 import { ShoppingBag, Search, Menu, ArrowRight } from 'lucide-react';
 import hero from "./assets/mojtaba-fahiminia-CQzCMx_wvk4-unsplash.jpg";
-import shoe1 from "./assets/485180644_17917733679079903_483889792583087763_n.jpg"
-import shoe2 from "./assets/481936224_17915256069079903_583157076661713899_n.jpg"
-import shoe3 from "./assets/475036308_17914677402079903_8595189820496157933_n.jpg"
-import shoe4 from "./assets/480941740_17914674765079903_4818902438063881944_n.jpg"
-import shoe5 from "./assets/481114778_17914527741079903_8825815051034956188_n.jpg"
-import shoe6 from "./assets/477280207_17913385350079903_183790902167695462_n.jpg"
+import shoe1 from "/home/user/Downloads/Shoestore1/src/assets/485180644_17917733679079903_483889792583087763_n.jpg"
+import shoe2 from "/home/user/Downloads/Shoestore1/src/assets/481936224_17915256069079903_583157076661713899_n.jpg"
+import shoe3 from "/home/user/Downloads/Shoestore1/src/assets/475036308_17914677402079903_8595189820496157933_n.jpg"
+import shoe4 from "/home/user/Downloads/Shoestore1/src/assets/480941740_17914674765079903_4818902438063881944_n.jpg"
+import shoe5 from "/home/user/Downloads/Shoestore1/src/assets/481114778_17914527741079903_8825815051034956188_n.jpg"
+import shoe6 from "/home/user/Downloads/Shoestore1/src/assets/477280207_17913385350079903_183790902167695462_n.jpg"
 import "./App.css";
 
 const products = [
